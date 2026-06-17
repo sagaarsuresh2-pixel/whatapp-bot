@@ -1,0 +1,17 @@
+{
+"name": "whatsapp-bot",
+"version": "1.0.0",
+"description": "Baileys WhatsApp API",
+"main": "index.js",
+"scripts": {
+"start": "node index.js"
+},
+"keywords": [],
+"author": "",
+"license": "ISC",
+"dependencies": {
+"@whiskeysockets/baileys": "^7.0.0-rc13",
+"express": "^5.2.1",
+"qrcode-terminal": "^0.12.0"
+}
+}
